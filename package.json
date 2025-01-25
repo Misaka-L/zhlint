@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhlint-project/zhlint.git"
+    "url": "git+https://github.com/Misaka-L/zhlint.git"
   },
   "keywords": [
     "lint",
@@ -55,9 +55,9 @@
   "author": "Jinjiang <zhaojinjiang@me.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zhlint-project/zhlint/issues"
+    "url": "https://github.com/Misaka-L/zhlint/issues"
   },
-  "homepage": "https://github.com/zhlint-project/zhlint#readme",
+  "homepage": "https://github.com/Misaka-L/zhlint#readme",
   "devDependencies": {
     "@types/mdast": "^4.0.3",
     "@types/node": "^20.11.17",
