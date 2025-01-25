@@ -1,6 +1,6 @@
 {
-  "name": "zhlint",
-  "version": "0.8.2",
+  "name": "@vrcd-community/zhlint",
+  "version": "0.8.2-hotfix",
   "description": "A linting tool for Chinese language.",
   "bin": {
     "zhlint": "./bin/index.js"
